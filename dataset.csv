@@ -1,0 +1,21 @@
+text,label
+"Congratulations! You won a free prize. Click here now",Phishing
+"Your bank account is blocked. Verify your password immediately",Phishing
+"Click this link to claim your reward",Phishing
+"Your account has suspicious activity. Update your details",Phishing
+"Urgent! Confirm your bank details now",Phishing
+"You have won a lottery. Claim your money",Phishing
+"Reset your password using this suspicious link",Phishing
+"Your credit card is blocked. Verify immediately",Phishing
+"Limited offer! Claim your free gift now",Phishing
+"Update your login credentials immediately",Phishing
+"Hello, your meeting is scheduled for tomorrow",Safe
+"Please find the attached project report",Safe
+"Your order has been shipped successfully",Safe
+"Thank you for attending the meeting",Safe
+"Your appointment is confirmed for Monday",Safe
+"Please submit your assignment before Friday",Safe
+"Your monthly bank statement is available",Safe
+"Team meeting starts at 10 AM tomorrow",Safe
+"Your payment was received successfully",Safe
+"Here is the document you requested",Safe
